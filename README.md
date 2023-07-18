@@ -10,13 +10,13 @@ So by the help of Smart baby cradle ,constant monitoring of the baby inside the 
 # WHY THIS PROJECT
 Baby care has become more crucial and difficult for working women in recent years. Working mothers will not have enough time to continuously monitor their children even at home. They either send their child to live with their grandparents or give the baby to a baby caretaker. A smart cradle will help working mothers to spend  more time with their baby . 
  Constant monitoring of the baby inside the cradle will be done. If any activity such as urination or baby waking up from sleep gives alert to baby’s parent. 
-The smart cradle incorporates the use of Rain sensor for monitoring the condition of the mattress that if the mattress in the cradle is wet or not . 
+The smart cradle incorporates the use of Soil moisture sensor for monitoring the condition of the mattress that if the mattress in the cradle is wet or not . 
 Sound sensor for the detection of the child's crying activity and swings the cradle to soothe the child.   
 
 # COMPONENTS USED: 
 1.	Arduino Uno
 2.	Sound sensor
-3.	Rain sensor
+3.	Soil moisture sensor
 4.	Servo motor
 5.	Buzzer
 6.	Breadboard
