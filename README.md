@@ -27,7 +27,8 @@ Sound sensor for the detection of the child's crying activity and swings the cra
 ![BLOCK DIAGRAM BABY CRADLE](https://github.com/Apoorva-Raghuvanshi/SMART-BABY-CRADLE/assets/139733701/718224bb-e4dc-4832-830b-b579622424fa)
 
 # CIRCUIT DIAGRAM MADE BY USING PROTEUS 8 PROFESSIONAL:
-![PROTEUS BABY CRADLE](https://github.com/Apoorva-Raghuvanshi/SMART-BABY-CRADLE/assets/139733701/d2954103-40bd-436f-8f9a-f6f161f8f3e7)
+
+![Screenshot (90)](https://github.com/Apoorva-Raghuvanshi/SMART-BABY-CRADLE/assets/139733701/d35522bf-b299-4411-9a7c-6d53c1931b6a)
 
 # PROJECT WORKING:
 https://github.com/Apoorva-Raghuvanshi/SMART-BABY-CRADLE/assets/139733701/b2c4bd2d-9f37-43dd-a74c-4c1e104333a1
